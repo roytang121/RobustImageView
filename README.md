@@ -1,4 +1,4 @@
-RobustImaveView
+RobustImageView
 ===============
 
 RobustImageView is a collection of common ImageViews that we usually need to deal with.
